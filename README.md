@@ -1,0 +1,1 @@
+The aim of this project is to use blockchain to track the integrity and history (provenance) of genomic datasets, ensuring they have not been tampered with and that each update or access is verifiable and auditable.
